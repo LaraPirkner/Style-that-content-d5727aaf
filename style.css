@@ -1,5 +1,5 @@
 .navbar{
-    background: orange;
+    background: rgb(240, 176, 58);
     color: black;
 
 
@@ -24,7 +24,7 @@ h1{
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
-    background-color: #EDF8B9;
+    background-color: rgb(248, 223, 185);
 
 }
 .news{
